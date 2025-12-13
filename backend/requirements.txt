@@ -1,0 +1,10 @@
+flask
+flask-cors
+deap
+numpy
+ortools
+psycopg2-binary
+SQLAlchemy
+alembic
+pydantic
+reportlab
